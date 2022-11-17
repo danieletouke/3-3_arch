@@ -1,0 +1,3 @@
+# Ignore all terraform files
+.terraform
+.terraform.lock.hcl
